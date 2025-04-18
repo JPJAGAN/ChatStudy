@@ -1,5 +1,5 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-## NAME: JAGAN JP 212224230099
+## NAME: JAGAN JP 
 ## REG NO: 212224230099
 
 ## Aim: 
