@@ -92,7 +92,7 @@ Client-server chat applications are foundational to real-time communication over
 
 ![Screenshot 2025-04-18 211414](https://github.com/user-attachments/assets/56a0017d-7513-4e85-8c7f-a1d2de19af43)
 
-![Screenshot 2025-04-18 211425](https://github.com/user-attachments/assets/497e1b1d-8a5c-41d8-b62b-0beb67602b43)
+![Screenshot 2025-04-18 215117](https://github.com/user-attachments/assets/d0a8dda0-10d8-4277-af00-bc1869e5acbb)
 
 ## Result:
 
